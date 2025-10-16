@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiAppMRS.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f89c6c0c0426f59788c0d18751859c948c04de88")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91a34a250b75b2183096413b3827db83af0b49cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiAppMRS.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiAppMRS.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
