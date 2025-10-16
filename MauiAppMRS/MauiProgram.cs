@@ -1,10 +1,13 @@
 ﻿using MauiAppMRS.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
-// добавили в этапе 2, пункт 2-3
+
 using MauiAppMRS.Core.Interfaces;
-// тоже
 using MauiAppMRS.Infrastructure.Repositories;
+
+using MauiAppMRS.Services.Services;
+
+
 
 
 namespace MauiAppMRS
@@ -35,6 +38,8 @@ namespace MauiAppMRS
 
             // Регистрируем репозитории в DI, это глобально этап 2, локально 2-3. 
             builder.Services.AddScoped<IUserRepository, UserRepository>();
+            // Регистрируем сервисы
+            builder.Services.AddScoped<AuthService>();
 
             return builder.Build();
         }
