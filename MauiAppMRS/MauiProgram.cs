@@ -1,6 +1,11 @@
 ﻿using MauiAppMRS.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
+// добавили в этапе 2, пункт 2-3
+using MauiAppMRS.Core.Interfaces;
+// тоже
+using MauiAppMRS.Infrastructure.Repositories;
+
 
 namespace MauiAppMRS
 {
@@ -24,23 +29,14 @@ namespace MauiAppMRS
             builder.Logging.AddDebug();
 #endif
 
-            // Минимальная регистрация DbContext
+            // Регистрация DbContext
             builder.Services.AddDbContext<AppDbContext>(options =>
                 options.UseSqlite("Data Source=checklist.db"));
 
+            // Регистрируем репозитории в DI, это глобально этап 2, локально 2-3. 
+            builder.Services.AddScoped<IUserRepository, UserRepository>();
+
             return builder.Build();
-
-
-
-            // После builder.Build()
-            //var app = builder.Build();
-
-            // Создаем БД при запуске
-            //using var scope = app.Services.CreateScope();
-            //var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
-            //dbContext.Database.Migrate();
-
-            //return app;
         }
     }
 }
