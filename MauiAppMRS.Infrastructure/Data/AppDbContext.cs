@@ -1,7 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using MauiAppMRS.Core.Entities; 
-
-
+using MauiAppMRS.Core.Entities;
 
 namespace MauiAppMRS.Infrastructure.Data
 {
@@ -37,5 +35,29 @@ namespace MauiAppMRS.Infrastructure.Data
         public DbSet<UserPersonalData> UserPersonalData { get; set; }
         public DbSet<OrganizationHistory> OrganizationHistories { get; set; }
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            // Составной ключ для SystemEquipmentType
+            modelBuilder.Entity<SystemEquipmentType>()
+                .HasKey(x => new { x.SystemId, x.EquipmentTypeId });
+
+            // Настройка каскадного удаления
+            modelBuilder.Entity<ChecklistResponse>()
+                .HasOne(cr => cr.Checklist)
+                .WithMany(c => c.Responses)
+                .HasForeignKey(cr => cr.ChecklistId)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            // Индексы для производительности
+            modelBuilder.Entity<Checklist>()
+                .HasIndex(c => new { c.InstallationId, c.MaintenanceTypeId });
+
+            modelBuilder.Entity<MaintenanceHistory>()
+                .HasIndex(m => m.InstallationId);
+
+            modelBuilder.Entity<User>()
+                .HasIndex(u => u.Login)
+                .IsUnique();
+        }
     }
 }

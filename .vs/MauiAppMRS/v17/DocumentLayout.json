@@ -3,12 +3,124 @@
   "WorkspaceRootPath": "C:\\MauiAppMRS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS\\MauiProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS\\MauiProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Migrations\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Migrations\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS\\MauiAppMRS.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS\\MauiAppMRS.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Infrastructure\\MauiAppMRS.Infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Infrastructure\\MauiAppMRS.Infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Infrastructure\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Infrastructure\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\OrganizationHistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\OrganizationHistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\UserPersonalData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\UserPersonalData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\OrganizationData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\OrganizationData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\OwnershipForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\OwnershipForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\Bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\Bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\ChecklistDocumentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\ChecklistDocumentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\MediaFile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\MediaFile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\MaintenanceHistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\MaintenanceHistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\ChecklistResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\ChecklistResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\Checklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\Checklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\ChecklistTemplateItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\ChecklistTemplateItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\FieldType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\FieldType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\ChecklistTemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\ChecklistTemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\EquipmentModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\EquipmentModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\SystemEquipmentType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\SystemEquipmentType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\FacilitySystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\FacilitySystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\Facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\Facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\OrganizationEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\OrganizationEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\OrganizationAddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\OrganizationAddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\Organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\Organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\Installation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\Installation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\MaintenanceType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\MaintenanceType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\EquipmentType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\EquipmentType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\UserRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\UserRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS.Core\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MauiAppMRS\\MauiAppMRS\\MauiProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppMRS\\MauiProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +135,383 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Migrations\\Program.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Migrations\\Program.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Migrations\\Program.cs",
+              "RelativeToolTip": "MauiAppMRS.Migrations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:28:03.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MauiAppMRS.csproj",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS\\MauiAppMRS.csproj",
+              "RelativeDocumentMoniker": "MauiAppMRS\\MauiAppMRS.csproj",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS\\MauiAppMRS.csproj",
+              "RelativeToolTip": "MauiAppMRS\\MauiAppMRS.csproj",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-16T11:22:54.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiAppMRS.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Infrastructure\\MauiAppMRS.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "MauiAppMRS.Infrastructure\\MauiAppMRS.Infrastructure.csproj",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Infrastructure\\MauiAppMRS.Infrastructure.csproj",
+              "RelativeToolTip": "MauiAppMRS.Infrastructure\\MauiAppMRS.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-16T11:20:00.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrganizationHistory.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\OrganizationHistory.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\OrganizationHistory.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\OrganizationHistory.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\OrganizationHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:03:07.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MauiAppMRS.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:26:32.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserPersonalData.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\UserPersonalData.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\UserPersonalData.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\UserPersonalData.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\UserPersonalData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:02:56.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrganizationData.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\OrganizationData.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\OrganizationData.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\OrganizationData.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\OrganizationData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:02:46.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OwnershipForm.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\OwnershipForm.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\OwnershipForm.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\OwnershipForm.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\OwnershipForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:02:35.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\Bank.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\Bank.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\Bank.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\Bank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:02:22.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChecklistDocumentation.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\ChecklistDocumentation.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\ChecklistDocumentation.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\ChecklistDocumentation.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\ChecklistDocumentation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:02:11.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MediaFile.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\MediaFile.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\MediaFile.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\MediaFile.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\MediaFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:01:58.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MaintenanceHistory.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\MaintenanceHistory.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\MaintenanceHistory.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\MaintenanceHistory.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\MaintenanceHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:01:47.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChecklistResponse.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\ChecklistResponse.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\ChecklistResponse.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\ChecklistResponse.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\ChecklistResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:01:35.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Checklist.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\Checklist.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\Checklist.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\Checklist.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\Checklist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:01:24.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChecklistTemplateItem.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\ChecklistTemplateItem.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\ChecklistTemplateItem.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\ChecklistTemplateItem.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\ChecklistTemplateItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:01:13.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FieldType.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\FieldType.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\FieldType.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\FieldType.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\FieldType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:01:00.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChecklistTemplate.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\ChecklistTemplate.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\ChecklistTemplate.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\ChecklistTemplate.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\ChecklistTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:00:48.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EquipmentModel.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\EquipmentModel.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\EquipmentModel.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\EquipmentModel.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\EquipmentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:00:26.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SystemEquipmentType.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\SystemEquipmentType.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\SystemEquipmentType.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\SystemEquipmentType.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\SystemEquipmentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:00:06.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FacilitySystem.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\FacilitySystem.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\FacilitySystem.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\FacilitySystem.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\FacilitySystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:58:36.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Facility.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\Facility.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\Facility.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\Facility.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\Facility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:58:23.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrganizationEmployee.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\OrganizationEmployee.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\OrganizationEmployee.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\OrganizationEmployee.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\OrganizationEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:58:11.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrganizationAddress.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\OrganizationAddress.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\OrganizationAddress.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\OrganizationAddress.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\OrganizationAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:57:58.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\Organization.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\Organization.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\Organization.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\Organization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:57:46.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Installation.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\Installation.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\Installation.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\Installation.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\Installation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:50:50.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MaintenanceType.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\MaintenanceType.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\MaintenanceType.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\MaintenanceType.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\MaintenanceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:50:36.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EquipmentType.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\EquipmentType.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\EquipmentType.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\EquipmentType.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\EquipmentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:50:23.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\UserRole.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\UserRole.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:50:12.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "MauiAppMRS.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Core\\Entities\\User.cs",
+              "RelativeToolTip": "MauiAppMRS.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:49:57.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS\\MauiProgram.cs",
               "RelativeDocumentMoniker": "MauiAppMRS\\MauiProgram.cs",
@@ -31,19 +520,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-16T10:26:55.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\MauiAppMRS\\MauiAppMRS.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "MauiAppMRS.Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\MauiAppMRS\\MauiAppMRS.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "MauiAppMRS.Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T10:26:32.064Z",
               "EditorCaption": ""
             }
           ]

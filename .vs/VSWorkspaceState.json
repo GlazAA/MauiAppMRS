@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\MauiAppMRS",
-    "\\MauiAppMRS.Infrastructure\\Data"
+    "\\MauiAppMRS.Core",
+    "\\MauiAppMRS.Infrastructure",
+    "\\MauiAppMRS.Infrastructure\\MauiAppMRS.Migrations",
+    "\\MauiAppMRS.Migrations"
   ],
-  "SelectedNode": "\\MauiAppMRS",
+  "SelectedNode": "\\MauiAppMRS.Infrastructure\\Class1.cs",
   "PreviewInSolutionExplorer": false
 }
