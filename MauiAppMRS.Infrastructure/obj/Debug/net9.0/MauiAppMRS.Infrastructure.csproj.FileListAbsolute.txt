@@ -9,10 +9,10 @@ C:\MauiAppMRS\MauiAppMRS.Infrastructure\obj\Debug\net9.0\MauiAppMRS.Infrastructu
 C:\MauiAppMRS\MauiAppMRS.Infrastructure\obj\Debug\net9.0\MauiAppMRS.Infrastructure.AssemblyInfoInputs.cache
 C:\MauiAppMRS\MauiAppMRS.Infrastructure\obj\Debug\net9.0\MauiAppMRS.Infrastructure.AssemblyInfo.cs
 C:\MauiAppMRS\MauiAppMRS.Infrastructure\obj\Debug\net9.0\MauiAppMRS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\MauiAppMRS\MauiAppMRS.Infrastructure\obj\Debug\net9.0\MauiAppMRS.Infrastructure.sourcelink.json
 C:\MauiAppMRS\MauiAppMRS.Infrastructure\obj\Debug\net9.0\MauiAppM.61BDB1A2.Up2Date
 C:\MauiAppMRS\MauiAppMRS.Infrastructure\obj\Debug\net9.0\MauiAppMRS.Infrastructure.dll
 C:\MauiAppMRS\MauiAppMRS.Infrastructure\obj\Debug\net9.0\refint\MauiAppMRS.Infrastructure.dll
 C:\MauiAppMRS\MauiAppMRS.Infrastructure\obj\Debug\net9.0\MauiAppMRS.Infrastructure.pdb
 C:\MauiAppMRS\MauiAppMRS.Infrastructure\obj\Debug\net9.0\MauiAppMRS.Infrastructure.genruntimeconfig.cache
 C:\MauiAppMRS\MauiAppMRS.Infrastructure\obj\Debug\net9.0\ref\MauiAppMRS.Infrastructure.dll
-C:\MauiAppMRS\MauiAppMRS.Infrastructure\obj\Debug\net9.0\MauiAppMRS.Infrastructure.sourcelink.json

@@ -20,6 +20,7 @@ namespace MauiAppMRS
 
 #if DEBUG
             builder.Services.AddBlazorWebViewDeveloperTools();
+            builder.Logging.SetMinimumLevel(LogLevel.Debug);
             builder.Logging.AddDebug();
 #endif
 
@@ -32,14 +33,14 @@ namespace MauiAppMRS
 
 
             // После builder.Build()
-            var app = builder.Build();
+            //var app = builder.Build();
 
             // Создаем БД при запуске
-            using var scope = app.Services.CreateScope();
-            var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
-            dbContext.Database.Migrate();
+            //using var scope = app.Services.CreateScope();
+            //var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+            //dbContext.Database.Migrate();
 
-            return app;
+            //return app;
         }
     }
 }

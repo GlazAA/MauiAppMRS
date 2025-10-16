@@ -10,9 +10,9 @@ C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\MauiAppMRS.Services.Generated
 C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\MauiAppMRS.Services.AssemblyInfoInputs.cache
 C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\MauiAppMRS.Services.AssemblyInfo.cs
 C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\MauiAppMRS.Services.csproj.CoreCompileInputs.cache
+C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\MauiAppMRS.Services.sourcelink.json
 C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\MauiAppM.D8A7CE45.Up2Date
 C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\MauiAppMRS.Services.dll
 C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\refint\MauiAppMRS.Services.dll
 C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\MauiAppMRS.Services.pdb
 C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\ref\MauiAppMRS.Services.dll
-C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\MauiAppMRS.Services.sourcelink.json

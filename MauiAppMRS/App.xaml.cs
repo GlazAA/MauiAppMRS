@@ -1,14 +1,15 @@
-﻿namespace MauiAppMRS;
-
-public partial class App : Application
+﻿namespace MauiAppMRS
 {
-	public App()
-	{
-		InitializeComponent();
-	}
+    public partial class App : Application
+    {
+        public App()
+        {
+            InitializeComponent();
+        }
 
-	protected override Window CreateWindow(IActivationState? activationState)
-	{
-		return new Window(new MainPage()) { Title = "MauiAppMRS" };
-	}
+        protected override Window CreateWindow(IActivationState activationState)
+        {
+            return new Window(new MainPage());
+        }
+    }
 }
