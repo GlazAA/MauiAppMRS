@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\MauiAppMRS\\MauiAppMRS\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\scopedcss\\bundle\\MauiAppMRS.styles.css",
+      "PackagePath": "staticwebassets\\MauiAppMRS.styles.css"
+    },
+    {
+      "Id": "C:\\MauiAppMRS\\MauiAppMRS\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\MauiAppMRS\\MauiAppMRS\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\MauiAppMRS\\MauiAppMRS\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\MauiAppMRS\\MauiAppMRS\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.MauiAppMRS.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.MauiAppMRS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.build.MauiAppMRS.props",
+      "PackagePath": "build\\MauiAppMRS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.buildMultiTargeting.MauiAppMRS.props",
+      "PackagePath": "buildMultiTargeting\\MauiAppMRS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.buildTransitive.MauiAppMRS.props",
+      "PackagePath": "buildTransitive\\MauiAppMRS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,11 @@
+C:\MauiAppMRS\MauiAppMRS.Core\bin\Debug\net9.0\MauiAppMRS.Core.deps.json
+C:\MauiAppMRS\MauiAppMRS.Core\bin\Debug\net9.0\MauiAppMRS.Core.dll
+C:\MauiAppMRS\MauiAppMRS.Core\bin\Debug\net9.0\MauiAppMRS.Core.pdb
+C:\MauiAppMRS\MauiAppMRS.Core\obj\Debug\net9.0\MauiAppMRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\MauiAppMRS\MauiAppMRS.Core\obj\Debug\net9.0\MauiAppMRS.Core.AssemblyInfoInputs.cache
+C:\MauiAppMRS\MauiAppMRS.Core\obj\Debug\net9.0\MauiAppMRS.Core.AssemblyInfo.cs
+C:\MauiAppMRS\MauiAppMRS.Core\obj\Debug\net9.0\MauiAppMRS.Core.csproj.CoreCompileInputs.cache
+C:\MauiAppMRS\MauiAppMRS.Core\obj\Debug\net9.0\MauiAppMRS.Core.dll
+C:\MauiAppMRS\MauiAppMRS.Core\obj\Debug\net9.0\refint\MauiAppMRS.Core.dll
+C:\MauiAppMRS\MauiAppMRS.Core\obj\Debug\net9.0\MauiAppMRS.Core.pdb
+C:\MauiAppMRS\MauiAppMRS.Core\obj\Debug\net9.0\ref\MauiAppMRS.Core.dll

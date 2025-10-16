@@ -1,0 +1,17 @@
+C:\MauiAppMRS\MauiAppMRS.Services\bin\Debug\net9.0\MauiAppMRS.Services.deps.json
+C:\MauiAppMRS\MauiAppMRS.Services\bin\Debug\net9.0\MauiAppMRS.Services.dll
+C:\MauiAppMRS\MauiAppMRS.Services\bin\Debug\net9.0\MauiAppMRS.Services.pdb
+C:\MauiAppMRS\MauiAppMRS.Services\bin\Debug\net9.0\MauiAppMRS.Core.dll
+C:\MauiAppMRS\MauiAppMRS.Services\bin\Debug\net9.0\MauiAppMRS.Infrastructure.dll
+C:\MauiAppMRS\MauiAppMRS.Services\bin\Debug\net9.0\MauiAppMRS.Core.pdb
+C:\MauiAppMRS\MauiAppMRS.Services\bin\Debug\net9.0\MauiAppMRS.Infrastructure.pdb
+C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\MauiAppMRS.Services.csproj.AssemblyReference.cache
+C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\MauiAppMRS.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\MauiAppMRS.Services.AssemblyInfoInputs.cache
+C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\MauiAppMRS.Services.AssemblyInfo.cs
+C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\MauiAppMRS.Services.csproj.CoreCompileInputs.cache
+C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\MauiAppM.D8A7CE45.Up2Date
+C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\MauiAppMRS.Services.dll
+C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\refint\MauiAppMRS.Services.dll
+C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\MauiAppMRS.Services.pdb
+C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\ref\MauiAppMRS.Services.dll
