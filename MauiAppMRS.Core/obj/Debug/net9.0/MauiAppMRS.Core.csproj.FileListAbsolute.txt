@@ -9,3 +9,4 @@ C:\MauiAppMRS\MauiAppMRS.Core\obj\Debug\net9.0\MauiAppMRS.Core.dll
 C:\MauiAppMRS\MauiAppMRS.Core\obj\Debug\net9.0\refint\MauiAppMRS.Core.dll
 C:\MauiAppMRS\MauiAppMRS.Core\obj\Debug\net9.0\MauiAppMRS.Core.pdb
 C:\MauiAppMRS\MauiAppMRS.Core\obj\Debug\net9.0\ref\MauiAppMRS.Core.dll
+C:\MauiAppMRS\MauiAppMRS.Core\obj\Debug\net9.0\MauiAppMRS.Core.sourcelink.json

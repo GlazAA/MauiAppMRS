@@ -15,3 +15,4 @@ C:\MauiAppMRS\MauiAppMRS.Infrastructure\obj\Debug\net9.0\refint\MauiAppMRS.Infra
 C:\MauiAppMRS\MauiAppMRS.Infrastructure\obj\Debug\net9.0\MauiAppMRS.Infrastructure.pdb
 C:\MauiAppMRS\MauiAppMRS.Infrastructure\obj\Debug\net9.0\MauiAppMRS.Infrastructure.genruntimeconfig.cache
 C:\MauiAppMRS\MauiAppMRS.Infrastructure\obj\Debug\net9.0\ref\MauiAppMRS.Infrastructure.dll
+C:\MauiAppMRS\MauiAppMRS.Infrastructure\obj\Debug\net9.0\MauiAppMRS.Infrastructure.sourcelink.json

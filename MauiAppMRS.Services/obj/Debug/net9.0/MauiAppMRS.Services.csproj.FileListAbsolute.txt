@@ -15,3 +15,4 @@ C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\MauiAppMRS.Services.dll
 C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\refint\MauiAppMRS.Services.dll
 C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\MauiAppMRS.Services.pdb
 C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\ref\MauiAppMRS.Services.dll
+C:\MauiAppMRS\MauiAppMRS.Services\obj\Debug\net9.0\MauiAppMRS.Services.sourcelink.json

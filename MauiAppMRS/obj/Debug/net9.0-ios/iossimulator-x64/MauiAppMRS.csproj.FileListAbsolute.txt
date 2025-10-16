@@ -372,3 +372,4 @@ C:\MauiAppMRS\MauiAppMRS\obj\Debug\net9.0-ios\iossimulator-x64\refint\MauiAppMRS
 C:\MauiAppMRS\MauiAppMRS\obj\Debug\net9.0-ios\iossimulator-x64\MauiAppMRS.pdb
 C:\MauiAppMRS\MauiAppMRS\obj\Debug\net9.0-ios\iossimulator-x64\MauiAppMRS.genruntimeconfig.cache
 C:\MauiAppMRS\MauiAppMRS\obj\Debug\net9.0-ios\iossimulator-x64\ref\MauiAppMRS.dll
+C:\MauiAppMRS\MauiAppMRS\obj\Debug\net9.0-ios\iossimulator-x64\MauiAppMRS.sourcelink.json

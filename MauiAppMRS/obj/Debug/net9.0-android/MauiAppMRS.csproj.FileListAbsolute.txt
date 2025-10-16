@@ -1491,3 +1491,4 @@ C:\MauiAppMRS\MauiAppMRS\obj\Debug\net9.0-android\stamp\_ConvertResourcesCases.s
 C:\MauiAppMRS\MauiAppMRS\obj\Debug\net9.0-android\stamp\_GenerateJavaStubs.stamp
 C:\MauiAppMRS\MauiAppMRS\obj\Debug\net9.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\MauiAppMRS\MauiAppMRS\obj\Debug\net9.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\MauiAppMRS\MauiAppMRS\obj\Debug\net9.0-android\MauiAppMRS.sourcelink.json

@@ -361,3 +361,4 @@ C:\MauiAppMRS\MauiAppMRS\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\refint\Mau
 C:\MauiAppMRS\MauiAppMRS\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\MauiAppMRS.pdb
 C:\MauiAppMRS\MauiAppMRS\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\MauiAppMRS.genruntimeconfig.cache
 C:\MauiAppMRS\MauiAppMRS\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\ref\MauiAppMRS.dll
+C:\MauiAppMRS\MauiAppMRS\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\MauiAppMRS.sourcelink.json
